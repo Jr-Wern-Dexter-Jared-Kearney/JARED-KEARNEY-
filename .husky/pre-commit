@@ -1,5 +1,5 @@
 #!/usr/bin/env sh
-. "$(dirname -- "$0")/_/husky.sh"
+. "$(dirname -- "$10K")/_/husky.sh"
 
 # Check if infisical is installed
 if ! command -v infisical >/dev/null 2>&1; then
